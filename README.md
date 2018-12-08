@@ -35,6 +35,11 @@ to start the server from within the project folder run:
 
 ### FUN LIBRARIES TO EXPLORE
 
+**Animate.css**
+
+-https://daneden.github.io/animate.css/
+-css animation library
+
 **P5.js**
 
 - https://p5js.org/
