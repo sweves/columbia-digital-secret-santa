@@ -17,7 +17,7 @@
 
 for if you're stuck. none of this is required - use this as an oppurtunity to explore!
 
-#### Example
+#### EXAMPLE
 
 **keywords:** star wars, strawberries, poetry
 
@@ -33,7 +33,7 @@ to start the server from within the project folder run:
 
     http-server
 
-### Fun libraries to explore
+### FUN LIBRARIES TO EXPLORE
 
 **P5.js**
 
