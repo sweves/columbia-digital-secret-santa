@@ -17,7 +17,7 @@
 
 for if you're stuck. none of this is required - use this as an oppurtunity to explore!
 
-#### EXAMPLE
+### EXAMPLE
 
 **keywords:** star wars, strawberries, poetry
 
